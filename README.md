@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Etzio-TUI
-- 👀 I’m interested in ...Linux and tui
-- 🌱 I’m currently learning ...Linux and tui
-- 💞️ I’m looking to collaborate on ...how to become more familiar with tui
-- 📫 How to reach me ...seancarleo73@gmail.com 
+- 👀 I’m interested in ...Linux
+- 🌱 I’m currently learning ...python & JS
+- 💞️ I’m looking to become more familiar with programming languages. 
+- 📫 How to reach me ...scar0476@protonmail.com 
 
 <!---
 Etzio-TUI/Etzio-TUI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
